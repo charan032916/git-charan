@@ -1,3 +1,4 @@
 hello
 welcome to AWS code pipeline
 added new line
+added second line
